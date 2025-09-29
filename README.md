@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello!+i'm+Daniely!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello,+i'm+Daniely!+C:)](https://git.io/typing-svg)
 
 <!--
 **daniely-maia/daniely-maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
