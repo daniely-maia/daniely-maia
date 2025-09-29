@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello,+i'm+Daniely!+C:)](https://git.io/typing-svg)
 
+![Image](https://github.com/user-attachments/assets/1b20c334-d1de-4cca-bfb1-34f5c9d33e36)
+
 <!--
 **daniely-maia/daniely-maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
