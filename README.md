@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&height=48&lines=hello%2C+my+name+is+Daniely!+(ˊᗜˋ)+*.+%E2%8B%86)](https://git.io/typing-svg)
 
+I'm a **Software Engineering** undergraduate student on the Federal University of Ceará (UFC) - Quixadá Campus.
+
 ![Image](https://github.com/user-attachments/assets/b0e05faf-04b1-4df5-a631-fea5277a4a95)
 <!--
 **daniely-maia/daniely-maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
