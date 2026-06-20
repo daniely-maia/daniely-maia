@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&height=48&lines=hello%2C+my+name+is+Daniely!+(ˊᗜˋ)+*.+%E2%8B%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&height=48&lines=hello%2C+my+name+is+Daniely!+(ˊvˋ)+*.+%E2%8B%86)](https://git.io/typing-svg)
 
 I'm a **Software Engineering** undergraduate student at the Federal University of Ceará (UFC) - Quixadá Campus.
 
