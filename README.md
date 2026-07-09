@@ -1,6 +1,6 @@
 <div align="center">
 
-ദ്ദി/ᐠ｡⩊｡ᐟ\
+ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
   # Hii! I'm Daniely Maia!
 
@@ -15,7 +15,7 @@
 I'm a **Software Engineering** undergraduate student at the Federal University of Ceará (UFC) - Quixadá Campus. I focus on
 software development (full-stack), Computer-Human Interaction (CHI), UX/UI R&D and database modeling (SQL)!
 
-#### Fun facts
+#### Fun facts ㅤ/ᐠ - ˕ -マ
 
 - 🇺🇸 I speak **English Fluently**,
 - 🇧🇷 although my **native language is Portuguese**!
@@ -23,21 +23,10 @@ software development (full-stack), Computer-Human Interaction (CHI), UX/UI R&D a
 - 👾 I love pixelart and
 - 🐾 I _also_ love animals!
 
+### How to Reach Me ₍⸍⸌̣ʷ̣̫ ⸍̣⸌₎ﾉ♡
 
-<!--
+<div align="center">
 
-🇺🇸 
-🇧🇷
-**daniely-maia/daniely-maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Telegram](https://img.shields.io/badge/Telegram-0077b5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danielymmaia)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniely-maia) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniely.m.maia@gmail.com/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
