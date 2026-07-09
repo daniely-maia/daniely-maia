@@ -15,18 +15,33 @@
 I'm a **Software Engineering** undergraduate student at the Federal University of Ceará (UFC) - Quixadá Campus. I focus on
 software development (full-stack), Computer-Human Interaction (CHI), UX/UI R&D and database modeling (SQL)!
 
+Currently, I hold a scholarship for an R&D project on the server-side of the FOSS [**Radar Livre**](https://github.com/RadarLivre/RadarLivre)!
+
 #### Fun facts ㅤ/ᐠ - ˕ -マ
 
 - 🇺🇸 I speak **English Fluently**,
 - 🇧🇷 although my **native language is Portuguese**!
 - 💻 🎨 Before changing majors to **Software Engineering**, I completed 3 whole semesters in **Digital Design**!
 - 👾 I love pixelart and
-- 🐾 I _also_ love animals!
+- 🐾 I _also_ love animals and exclamation marks!
 
-### How to Reach Me ₍⸍⸌̣ʷ̣̫ ⸍̣⸌₎ﾉ♡
+---
+
+### Skills & Tools ᨐฅ
+
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,docker,java,postgres,git,github,linux,figma)](https://skillicons.dev)
+
+</div>
+
+
+### How to Reach Me ₍⸍⸌̣ʷ̣̫  ⸍̣⸌₎ﾉ♡
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-0077b5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danielymmaia)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniely-maia) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniely.m.maia@gmail.com/)
+[![Lattes](https://img.shields.io/badge/Lattes-0077B5?style=for-the-badge&logo&logoColor=white-8A2BE2)](http://lattes.cnpq.br/9535397980658555)
 
 </div>
